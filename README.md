@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CatBoost%20%7C%20LightGBM-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Achievement-Dataquest%20Objective%20Quest%202024%20Finalist-success?style=for-the-badge)
 
 > **Team Hustler** - Objective Quest 2024  
 > *A Machine Learning approach to fortify cybersecurity through intelligent network traffic analysis.*
